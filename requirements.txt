@@ -1,0 +1,10 @@
+asgiref==3.4.1
+backports.zoneinfo==0.2.1
+Django==4.0
+django-markdown==0.8.4
+django-taggit==2.0.0
+importlib-metadata==4.8.2
+Markdown==3.3.6
+psycopg2==2.9.2
+sqlparse==0.4.2
+zipp==3.6.0
